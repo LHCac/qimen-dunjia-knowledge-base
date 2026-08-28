@@ -1,0 +1,5 @@
+# 原始掃描與本機暫存不進入公開知識庫
+*.pdf
+scans/
+sources/raw/
+.DS_Store
